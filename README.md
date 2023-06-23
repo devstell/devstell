@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devstell
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Swift and IOS coding.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
